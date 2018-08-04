@@ -1,0 +1,3 @@
+Percakapanmu dengan Wi Bu, apa yang sebenarnya Wi Bu katakan?
+
+nc 103.56.207.107 40002

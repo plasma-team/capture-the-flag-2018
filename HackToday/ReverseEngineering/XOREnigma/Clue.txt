@@ -1,0 +1,1 @@
+Note: Flag format tetap ^HackToday{\w+}$

@@ -1,0 +1,4 @@
+Bantu Kompeni Pemberantas Korupsi untuk mengambil pesan dari gambar yang terkorupsi!
+
+Hint
+-> yes : Pixel RLE

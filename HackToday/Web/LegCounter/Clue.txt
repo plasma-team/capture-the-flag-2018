@@ -1,0 +1,3 @@
+Kamu punya mata namun tidak bisa berhitung? tenang kami membuat web Leg Counter. Web ini dapat menghitung jumlah kaki dari gambar yang kamu upload.
+
+http://103.56.207.107:50001/
