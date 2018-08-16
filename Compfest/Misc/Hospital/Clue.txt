@@ -1,0 +1,5 @@
+My brother trying to make hospital information system and in development phase. Can you find
+something that wrong in his implementation?
+
+$ nc 103.252.50.113 9036
+

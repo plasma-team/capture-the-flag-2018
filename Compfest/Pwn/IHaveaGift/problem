@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+		<title>CTF COMPFEST X</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="shortcut icon" href="/themes/core/static/img/favicon.ico" type="image/x-icon">
+		<link rel="icon" href="/themes/core/static/img/favicon.ico" type="image/x-icon">
+		<link rel="stylesheet" href="/themes/core/static/css/vendor/bootstrap.min.css">
+		<link rel="stylesheet" href="/themes/core/static/css/vendor/font-awesome/fontawesome-fonts.css" type='text/css'>
+		<link rel="stylesheet" href="/themes/core/static/css/vendor/font-awesome/fontawesome-all.css" type='text/css'>
+		<link href='/themes/core/static/css/vendor/font.css' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="/themes/core/static/css/jumbotron.css">
+		<link rel="stylesheet" href="/themes/core/static/css/sticky-footer.css">
+		<link rel="stylesheet" href="/themes/core/static/css/base.css">
+		<link rel="stylesheet" type="text/css" href="/static/user.css">
+		
+		
+		<script src="/themes/core/static/js/vendor/moment.min.js"></script>
+		<script src="/themes/core/static/js/vendor/nunjucks.min.js"></script>
+		<script type="text/javascript">
+				var script_root = "";
+				var csrf_nonce = "036a9aa288a18d74c703eb447c8f74ab9a86f3cc2ff83fac771eea156d78335f5d90510af9ce90ec8f4d190b8d8f8554f69bf3efb5063356f02a3fd0ad9a844c"
+		</script>
+</head>
+<body>
+	<nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+		<div class="container">
+			<a href="/" class="navbar-brand">
+				
+				<img class="img-responsive ctf_logo" src="/files/89ea713fbb2eaa3163579a5e171ee7d7/logo.ae5575ce.svg" height="25" alt="CTF COMPFEST X">
+				
+			</a>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#base-navbars"
+					aria-controls="base-navbars" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="base-navbars">
+				<ul class="navbar-nav mr-auto">
+					
+
+					
+						<li class="nav-item">
+							<a class="nav-link" href="/teams">Teams</a>
+						</li>
+					
+					
+						<li class="nav-item">
+							<a class="nav-link" href="/scoreboard">Scoreboard</a>
+						</li>
+					
+					<li class="nav-item">
+						<a class="nav-link" href="/challenges">Challenges</a>
+					</li>
+				</ul>
+
+				<hr class="d-sm-flex d-md-flex d-lg-none">
+
+				<ul class="navbar-nav ml-md-auto d-block d-sm-flex d-md-flex">
+					
+						
+						<li class="nav-item">
+							<a class="nav-link" href="/team">Team</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="/profile">Profile</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="/logout">Logout</a>
+						</li>
+					
+				</ul>
+			</div>
+		</div>
+	</nav>
+
+	<main role="main">
+		
+
+<div class="container">
+	<div class="row">
+		<div class="col-md-12">
+			<h1 class="text-center">Forbidden</h1>
+			<h2 class="text-center">You don&#39;t have the permission to access the requested resource. It is either read-protected or not readable by the server.</h2>
+		</div>
+	</div>
+</div>
+
+
+	</main>
+
+	<footer class="footer">
+		<div class="container text-center">
+			<a href="https://ctfd.io">
+				<small class="text-muted">Powered by CTFd</small>
+			</a>
+		</div>
+	</footer>
+
+	<script src="/themes/core/static/js/vendor/jquery.min.js"></script>
+	<script src="/themes/core/static/js/vendor/markdown-it.min.js"></script>
+	<script src="/themes/core/static/js/vendor/bootstrap.bundle.min.js"></script>
+	<script src="/themes/core/static/js/style.js"></script>
+	<script src="/themes/core/static/js/ezq.js"></script>
+	
+
+
+	
+</body>
+</html>

@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sat Aug 11 13:12:30 2018
+Invocation: foremost 00000000.bmp 
+Output directory: /home/tayo/ctflab/Competition/Compfest/Stegano/AsciiArt/output/bmp/output1/bmp/output2/bmp/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: 00000000.bmp
+Start: Sat Aug 11 13:12:30 2018
+Length: 851 KB (872394 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.bmp 	     851 KB 	          0 	  (625 x 465)
+Finish: Sat Aug 11 13:12:30 2018
+
+1 FILES EXTRACTED
+	
+bmp:= 1
+------------------------------------------------------------------
+
+Foremost finished at Sat Aug 11 13:12:30 2018

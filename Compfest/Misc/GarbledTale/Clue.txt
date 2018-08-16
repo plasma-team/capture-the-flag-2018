@@ -1,0 +1,6 @@
+Do you believe that if you give a monkey a keyboard he can write a comprehensible tale, a prayer,
+or a flag maybe?
+
+$ nc 103.252.50.113 8363
+
+

@@ -1,0 +1,5 @@
+Find the hash collider!
+
+$ nc 103.252.50.113 8361
+
+

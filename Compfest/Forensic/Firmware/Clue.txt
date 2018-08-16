@@ -1,0 +1,3 @@
+The IT department reported that they recently noticed some unusual signs from 1 router in the company after they update this router to the new firmware version. The IT department already extracted the firmware of this router and need help from Infosec department to check it.
+
+https://drive.google.com/open?id=1X8gccvWkIQ2PMckLGeCE10T8qT73vJ_e

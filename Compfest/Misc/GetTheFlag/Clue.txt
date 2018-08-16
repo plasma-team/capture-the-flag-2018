@@ -1,0 +1,6 @@
+Enter this flag to get points!
+
+CTFX{Th1s_i5_y0uR_fiRst_fL4g}
+
+Hint: All of the flag will be in format CTFX{...}
+

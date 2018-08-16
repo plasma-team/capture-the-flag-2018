@@ -1,0 +1,5 @@
+They want a string.But, what string they want?
+
+nc 103.252.50.113 9946
+
+

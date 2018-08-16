@@ -1,0 +1,5 @@
+Someone is learning linear algebra in his freshman year and finds matrix interesting, and he
+decided to write an encryption algorithm based on it.
+
+but he forgot something critical.
+

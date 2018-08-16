@@ -1,0 +1,1 @@
+Someone dumped an image file and compressed it with some kind of compression, can you get the flag? I thought you'd find it there..
